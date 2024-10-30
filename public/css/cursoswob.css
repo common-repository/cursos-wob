@@ -1,0 +1,196 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07-jul-2017, 12:24:20
+    Author     : Jordi
+*/
+.cursoswob_video_vimeo{
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 56.2%;
+    margin-bottom: 20px;
+}
+.cursoswob_video_vimeo iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.cursoswob-boton-volver-al-curso{
+    background-color: #00b9eb;
+    color: #FFFFFF;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border: 0px solid #000000;
+    /*float: left;*/
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.cursoswob-boton-volver-al-curso:hover{
+    background-color: #DDDDDD;
+    color: #333333;
+}
+
+.cursoswob-link-archivo{
+    background-color: #FF0000;
+    color: #FFFFFF;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border: 0px solid #000000;
+    /*float: left;*/
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.cursoswob-link-archivo:hover{
+    background-color: #DDDDDD;
+    color: #333333;
+}
+.cursoswob-link-clases{
+    background-color: #333333;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border: 0px solid #000000;
+    /*float: left;*/
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.cursoswob-link-clases:hover{
+    background-color: #61b616;
+    color: #333333;
+}
+.cursoswob-link-clases-activo{
+    background-color: #61b616;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border: 0px solid #000000;
+    /*float: left;*/
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.cursoswob-grupo-listado-de-clases{
+    margin-top: 25px;
+    width: 100%;
+    display: block;
+    padding: 10px;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border: 0px solid #000000;
+    background-color: #DDDDDD;
+}
+.cursoswob-listado-clases{
+    width: 100%;
+    display: block;
+}
+.cursoswob-opciones-de-la-clase{
+    width: 100%;
+    display: block;
+    margin-bottom: 25px;
+}
+.cursoswob-contenido-de-la-clase{
+    width: 100%;
+    display: block;
+    margin-bottom: 25px;
+    background-color: #eeeeee;
+    padding: 10px;
+}
+.cursoswob-videos-i-clases-del-curso{
+    width: 100%;
+    display: block;
+    margin-bottom: 25px;
+    background-color: #333333;
+    padding: 10px;
+}
+.cursoswob-title-clases{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0px;
+    margin-top: 20px;
+}
+.cursoswob-tablednd
+{
+	/*font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;*/
+	width: 100%;
+	text-align: left;
+	border-collapse: collapse;
+	border: 1px solid #666666;
+}
+.cursoswob-tablednd th
+{
+	padding: 12px 17px 12px 17px;
+	/*font-weight: normal;
+	font-size: 14px;*/
+	color: #666666;
+        background-color: #DDDDDD;
+	border-bottom: 1px solid #666666;
+        border-top: 1px solid #666666;
+}
+.cursoswob-tablednd td
+{
+	padding: 7px 17px 7px 17px;
+	color: #666666;
+}
+.cursoswob-tablednd tbody tr:hover td
+{
+	color: #666666;
+	background: #EEEEEE;
+}
+
+.cursoswob-comprar-curso{
+    background-color: #61b616;
+    color: #ffffff;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border: 0px solid #000000;
+    /*float: left;*/
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.cursoswob-div-comprar{
+    display: block;
+    margin-top: 36px;
+    margin-bottom: 36px;
+}
+
+/************ LISTADO DE CURSOS ***********/
+.listado-de-cursos{
+    
+}
+.imagen-del-curso{
+    margin-right: 20px;
+    display: block;
+}
+.cursoswob-curso{
+    float: left;
+    width: 33%;
+    display: block;
+    padding: 10px;
+}
+.titulo_del_curso{
+    margin-top: 0px;
+    padding-top: 5px;
+    font-size: 20px;
+}

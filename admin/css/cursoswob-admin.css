@@ -1,0 +1,17 @@
+.cursoswob_admin_video_vimeo{
+    display: block;
+    width: 100%
+}
+
+.cursoswob_video_form{
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.cursoswob_video_form label{
+    padding-bottom: 10px;
+    padding-top: 10px
+}
+.cursoswob_titulo_bienvenidos{
+    font-size: 40px!Important;
+}

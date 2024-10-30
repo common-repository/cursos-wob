@@ -1,0 +1,334 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Cursos Wob\n"
+"POT-Creation-Date: 2017-09-12 12:36+0200\n"
+"PO-Revision-Date: 2017-09-12 12:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: cursoswob.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-cursoswob-admin.php:37
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:117
+msgid "Ayuda"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:46
+msgid "Configuración Cursos Wob"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:55
+msgid "Crear un curso"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:63
+msgid "Vincular los cursos con la tienda"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:157
+msgctxt "post type general name"
+msgid "Cursos"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:158
+msgctxt "post type singular name"
+msgid "Curso"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:159
+msgctxt "curso"
+msgid "Añadir nuevo"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:160
+msgid "Añadir nuevo Curso"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:161
+msgid "Editar Curso"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:162
+msgid "Nuevo Curso"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:163
+msgid "Ver Curso"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:164
+msgid "Buscar Cursos"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-cursoswob-admin.php:165
+msgid "Cursos Wob"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:166
+msgid "No se han encontrado Cursos"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:167
+msgid "No se han encontrado Cursos en la papelera"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:191
+msgctxt "post type general name"
+msgid "Clases"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:192
+msgctxt "post type singular name"
+msgid "Clase"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:193
+msgctxt "clase"
+msgid "Añadir nueva"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:194
+#: admin/partials/cursoswob-clases-del-curso.php:1
+msgid "Añadir nueva Clase"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:195
+msgid "Editar Clase"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:196
+msgid "Nueva Clase"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:197
+msgid "Ver Clase"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:198
+msgid "Buscar Clases"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:199
+msgid "No se han encontrado Clases"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:200
+msgid "No se han encontrado Clases en la papelera"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:230
+msgctxt "taxonomy general name"
+msgid "Formadores"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:231
+msgctxt "taxonomy singular name"
+msgid "Formador"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:232
+msgid "Buscar Formadores"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:233
+msgid "Formadores populares"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:234
+msgid "Todos los Formadores"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:237
+msgid "Editar Formador"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:238
+msgid "Actualizar Formador"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:239
+msgid "Añadir nuevo Formador"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:240
+msgid "Nombre del nuevo Formador"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:241
+msgid "Separar Formadores por comas"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:242
+msgid "Añadir o eliminar Formadores"
+msgstr ""
+
+#: admin/class-cursoswob-admin.php:243
+msgid "Escoger entre los Formadores más utilizados"
+msgstr ""
+
+#: admin/partials/cursoswob-archivos-de-la-clase.php:11
+msgid "Archivo PDF"
+msgstr ""
+
+#: admin/partials/cursoswob-archivos-de-la-clase.php:13
+msgid "Añadir PDF"
+msgstr ""
+
+#: admin/partials/cursoswob-archivos-de-la-clase.php:16
+msgid "Volver al Curso"
+msgstr ""
+
+#: admin/partials/cursoswob-clases-del-curso.php:7
+#: admin/partials/cursoswob-clases-del-curso.php:23
+msgid "Clase"
+msgstr ""
+
+#: admin/partials/cursoswob-clases-del-curso.php:16
+msgid "Modificar Clase"
+msgstr ""
+
+#: admin/partials/cursoswob-pagina-de-ayuda-crear-un-curso.php:2
+#: admin/partials/cursoswob-pagina-de-ayuda-vincular-los-cursos-con-la-tienda.php:2
+#: admin/partials/cursoswob-pagina-de-configuracion-cursoswob.php:2
+#: admin/partials/cursoswob-pagina-de-configuracion-woocommerce.php:2
+msgid "Bienvenido a Cursos Wob"
+msgstr ""
+
+#: admin/partials/cursoswob-video-de-la-clase.php:23
+#: admin/partials/cursoswob-video-del-curso.php:20
+msgid "Video mp4"
+msgstr ""
+
+#: admin/partials/cursoswob-video-de-la-clase.php:25
+#: admin/partials/cursoswob-video-del-curso.php:22
+msgid "Añadir mp4"
+msgstr ""
+
+#: admin/partials/cursoswob-video-de-la-clase.php:28
+#: admin/partials/cursoswob-video-del-curso.php:25
+msgid "URL Video Vimeo"
+msgstr ""
+
+#: admin/partials/cursoswob-video-de-la-clase.php:32
+#: admin/partials/cursoswob-video-del-curso.php:29
+msgid "URL Video Youtube"
+msgstr ""
+
+#: public/class-cursoswob-public.php:163
+msgid "Cursos"
+msgstr ""
+
+#: public/partials/cursoswob-display-clase-public.php:125
+msgid "Volver al curso"
+msgstr ""
+
+#: public/partials/cursoswob-display-clase-public.php:128
+msgid "Descargar PDF"
+msgstr ""
+
+#: public/partials/cursoswob-display-curso-public.php:102
+#: public/partials/cursoswob-display-curso-public.php:144
+msgid "Clases del Curso"
+msgstr ""
+
+#: public/partials/cursoswob-display-curso-public.php:126
+msgid "Ver clase"
+msgstr ""
+
+#: public/partials/cursoswob-display-lista-cursos-public.php:30
+#: woocommerce/partials/cursoswob-display-lista-cursos-public.php:36
+msgid "No hay cursos disponibles"
+msgstr ""
+
+#: woocommerce/class-cursoswob-woocommerce.php:17
+msgid "Configuración"
+msgstr ""
+
+#: woocommerce/class-cursoswob-woocommerce.php:235
+msgid "Mis cursos"
+msgstr ""
+
+#: woocommerce/class-cursoswob-woocommerce.php:265
+msgid "Mis Cursos"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:8
+msgid "Cursos Wob Opciones"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:19
+msgid "Opciones de configuración"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:24
+msgid "Configuración de la API de Woocommerce"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:26
+msgid "Clave cliente"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:28
+msgid "Clave secreta cliente"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:31
+msgid "Guardar Configuración"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:46
+msgid "Creación de los porductos en Woocommerce"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:75
+msgid "Precio"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:78
+msgid "Crear Producto"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:93
+msgid "Modificar Producto en WooCommerce"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:102
+msgid "No hay Cursos activos"
+msgstr ""
+
+#: woocommerce/partials/cursoswob-woocommerce-pagina-de-opciones.php:120
+msgid ""
+"Instala el plugin Woocommerce y crea una clave API para poder utilizar esta "
+"extensión"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.wpwob3.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Cursos Wob es un plugin para crear y vender tus cursos de manera sencilla."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wob3 Creatius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wpwob3.com"
+msgstr ""
